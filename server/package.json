@@ -1,0 +1,15 @@
+{
+  "name": "chalk_talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server.js --watch ../server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.2",
+    "nodemon": "^1.18.10"
+  }
+}

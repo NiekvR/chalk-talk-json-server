@@ -1,0 +1,14 @@
+{
+  "luminis": [
+    {
+      "firstName": "Ander naam",
+      "lastname": "Janssen",
+      "id": 1
+    },
+    {
+      "firstName": "Ton",
+      "lastName": "Jansssen",
+      "id": 2
+    }
+  ]
+}

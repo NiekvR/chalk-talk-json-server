@@ -1,0 +1,38 @@
+{
+  "luminis": [
+    {
+      "id": 1,
+      "firstName": "René",
+      "lastName": "Janssen"
+    },
+    {
+      "firstName": "Robin",
+      "lastName": "van Kaathoven",
+      "id": 2
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Jansen",
+      "id": 3
+    },
+    {
+      "firstName": "Silvan",
+      "lastName": "Snik",
+      "id": 4
+    }
+  ],
+  "car": [
+    {
+      "id": 1,
+      "type": "volvo",
+      "licensePlate": "8-RXJ-SR",
+      "luminisId": 2
+    },
+    {
+      "id": 2,
+      "type": "mazarati",
+      "licensePlate": "1-GHA-UU",
+      "luminisId": 1
+    }
+  ]
+}
